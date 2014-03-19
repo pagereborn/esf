@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsportsFundraising", "EsportsFundraising\EsportsFundraising.csproj", "{03EA3DBD-ABEA-4817-8CE5-CB60343BEAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsportsFundraisingTests", "EsportsFundraisingTests\EsportsFundraisingTests.csproj", "{6D2329D3-72E0-404E-8F37-F7702ABB387E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EA3DBD-ABEA-4817-8CE5-CB60343BEAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EA3DBD-ABEA-4817-8CE5-CB60343BEAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EA3DBD-ABEA-4817-8CE5-CB60343BEAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EA3DBD-ABEA-4817-8CE5-CB60343BEAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D2329D3-72E0-404E-8F37-F7702ABB387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D2329D3-72E0-404E-8F37-F7702ABB387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D2329D3-72E0-404E-8F37-F7702ABB387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D2329D3-72E0-404E-8F37-F7702ABB387E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
